@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/producer.dir/producer.c.o  -o build/producer 

@@ -1,0 +1,4 @@
+/home/weber/Dev/study/ipc/message_queue/CMakeFiles/rebuild_cache.dir
+/home/weber/Dev/study/ipc/message_queue/CMakeFiles/edit_cache.dir
+/home/weber/Dev/study/ipc/message_queue/CMakeFiles/sender.dir
+/home/weber/Dev/study/ipc/message_queue/CMakeFiles/receiver.dir

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/weber/Dev/study/ipc/shared_memory/memwriter.c
+stdio.h
+-
+stdlib.h
+-
+sys/mman.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+unistd.h
+-
+semaphore.h
+-
+string.h
+-
+shmem.h
+/home/weber/Dev/study/ipc/shared_memory/shmem.h
+
+/home/weber/Dev/study/ipc/shared_memory/shmem.h
+

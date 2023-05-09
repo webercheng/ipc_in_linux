@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/shared_files_demo.dir/producer.c.o CMakeFiles/shared_files_demo.dir/consumer.c.o  -o build/shared_files_demo 

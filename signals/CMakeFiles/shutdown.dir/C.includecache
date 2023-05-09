@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/weber/Dev/study/ipc/signals/shutdown.c
+stdio.h
+-
+signal.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/wait.h
+-
+

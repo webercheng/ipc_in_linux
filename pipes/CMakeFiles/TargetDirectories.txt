@@ -1,0 +1,5 @@
+/home/weber/Dev/study/ipc/pipes/CMakeFiles/rebuild_cache.dir
+/home/weber/Dev/study/ipc/pipes/CMakeFiles/fifoReader.dir
+/home/weber/Dev/study/ipc/pipes/CMakeFiles/edit_cache.dir
+/home/weber/Dev/study/ipc/pipes/CMakeFiles/pipeUN.dir
+/home/weber/Dev/study/ipc/pipes/CMakeFiles/fifoWriter.dir

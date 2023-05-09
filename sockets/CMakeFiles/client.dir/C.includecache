@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/weber/Dev/study/ipc/sockets/client.c
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+netinet/in.h
+-
+netinet/tcp.h
+-
+netdb.h
+-
+sock.h
+/home/weber/Dev/study/ipc/sockets/sock.h
+
+/home/weber/Dev/study/ipc/sockets/sock.h
+

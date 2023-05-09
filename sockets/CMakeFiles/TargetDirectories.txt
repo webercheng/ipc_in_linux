@@ -1,0 +1,4 @@
+/home/weber/Dev/study/ipc/sockets/CMakeFiles/edit_cache.dir
+/home/weber/Dev/study/ipc/sockets/CMakeFiles/rebuild_cache.dir
+/home/weber/Dev/study/ipc/sockets/CMakeFiles/server.dir
+/home/weber/Dev/study/ipc/sockets/CMakeFiles/client.dir

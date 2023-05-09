@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/receiver.dir/receiver.c.o  -o build/receiver 

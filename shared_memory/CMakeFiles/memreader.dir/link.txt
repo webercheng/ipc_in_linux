@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/memreader.dir/memreader.c.o  -o build/memreader -lrt -lpthread 

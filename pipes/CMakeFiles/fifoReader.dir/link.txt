@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/fifoReader.dir/fifoReader.c.o  -o build/fifoReader 

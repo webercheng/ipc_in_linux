@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/shutdown.dir/shutdown.c.o  -o build/shutdown 

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/weber/Dev/study/ipc/message_queue/sender.c
+stdio.h
+-
+sys/ipc.h
+-
+sys/msg.h
+-
+stdlib.h
+-
+string.h
+-
+queue.h
+-
+
+message_queue/queue.h
+

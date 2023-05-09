@@ -1,0 +1,4 @@
+/home/weber/Dev/study/ipc/shared_files/CMakeFiles/rebuild_cache.dir
+/home/weber/Dev/study/ipc/shared_files/CMakeFiles/edit_cache.dir
+/home/weber/Dev/study/ipc/shared_files/CMakeFiles/producer.dir
+/home/weber/Dev/study/ipc/shared_files/CMakeFiles/consumer.dir

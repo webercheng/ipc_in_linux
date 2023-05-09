@@ -1,0 +1,4 @@
+/home/weber/Dev/study/ipc/shared_memory/CMakeFiles/rebuild_cache.dir
+/home/weber/Dev/study/ipc/shared_memory/CMakeFiles/edit_cache.dir
+/home/weber/Dev/study/ipc/shared_memory/CMakeFiles/memwriter.dir
+/home/weber/Dev/study/ipc/shared_memory/CMakeFiles/memreader.dir

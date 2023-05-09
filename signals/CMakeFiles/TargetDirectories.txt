@@ -1,0 +1,3 @@
+/home/weber/Dev/study/ipc/signals/CMakeFiles/rebuild_cache.dir
+/home/weber/Dev/study/ipc/signals/CMakeFiles/shutdown.dir
+/home/weber/Dev/study/ipc/signals/CMakeFiles/edit_cache.dir
